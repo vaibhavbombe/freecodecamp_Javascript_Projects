@@ -2,7 +2,6 @@
 
 //solution:
 
-
 function palindrome(str) {
   
   str = str.toLowerCase(); 
